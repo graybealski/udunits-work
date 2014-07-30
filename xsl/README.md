@@ -15,7 +15,7 @@ I ran it against my own copy of the UDUNITS package using xsltproc, a tool I app
 The HTML files that result are attached below.
 
 You can also run this against the online UDUNITS files. For example the last command could be run as 
-    xsltproc udunits2_to_html.xslt http://www.unidata.ucar.edu/software/udunits/udunits-current/udunits/udunits2-prefixes.xml > udunit2-prefixes.html
+    `xsltproc udunits2_to_html.xslt http://www.unidata.ucar.edu/software/udunits/udunits-current/udunits/udunits2-prefixes.xml > udunit2-prefixes.html`
     
 ## Additional Thoughts
 
